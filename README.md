@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there, I'm Preethika 👋</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate student and developer from India</h3>
 
-- 📫 How to reach me **preethikasivakumar3@gmail.com**
+<!-- 📫 How to reach me **preethikasivakumar3@gmail.com**-->
 
-- ⚡ Fun fact **I can speak 6 languages**
+⚡ Fun fact **I can speak 6 languages other than the ones I code in :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
