@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there, I'm Preethika 👋</h1>
-<h3 align="center">A passionate student and developer from India</h3>
+<h3 align="center">CSE undergrad currently exploring front-end and back-end technologies and Machine Learning</h3>
 
 <!-- 📫 How to reach me **preethikasivakumar3@gmail.com**-->
 
