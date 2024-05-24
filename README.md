@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- 📫 How to reach me **preethikasivakumar3@gmail.com**-->
 
 ⚡ Fun fact **I can speak 6 languages other than the ones I code in :)**
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Preethikasiva&theme=radical&mode=weekly" alt="GitHub Streak" /></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/preethika-sivakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/preethika-sivakumar" height="30" width="30" /></a>
