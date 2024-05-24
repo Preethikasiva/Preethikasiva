@@ -17,15 +17,19 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF269C&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Preethika!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="center">CSE undergrad currently exploring front-end and back-end technologies</h3>
+<h3 align="center">CSE undergrad currently exploring web development and machine learning</h3>
 
-<!-- 📫 How to reach me **preethikasivakumar3@gmail.com**-->
+<br>
+<br>
 
+🌱 I’m currently learning **PHP and WordPress**
 ⚡ Fun fact **I can speak 6 languages other than the ones I code in :)**
+📫 How to reach me **preethikasivakumar3@gmail.com**
+
 <br>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Preethikasiva&theme=radical&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Preethikasiva&theme=radical&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
