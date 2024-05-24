@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact **I can speak 6 languages other than the ones I code in :)**
 
-📫 How to reach me **preethikasivakumar3@gmail.com**
+📫 You can reach out to me by emailing at **preethikasivakumar3@gmail.com**
 
 <br>
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/preethika-sivakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/preethika-sivakumar" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I am familiar with:</h3>
 <br>
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
