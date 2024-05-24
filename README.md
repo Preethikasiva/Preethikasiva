@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-🌱 I’m currently learning **PHP and WordPress**
+🌱 I’m currently learning **front end technologies**
 
 ⚡ Fun fact **I can speak 6 languages other than the ones I code in :)**
 
