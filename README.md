@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 <br>
 
 🌱 I’m currently learning **PHP and WordPress**
+
 ⚡ Fun fact **I can speak 6 languages other than the ones I code in :)**
+
 📫 How to reach me **preethikasivakumar3@gmail.com**
 
 <br>
