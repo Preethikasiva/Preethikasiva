@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=E83773&multiline=true&random=false&width=551&lines=Hey+there%2C+this+is+Preethika!%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="center">CSE undergrad currently exploring full stack web development and machine learning</h3>
+<h3 align="center">I'm a Computer Science and Engineering major (CSEN) currently exploring full stack web development and machine learning</h3>
 
 <br>
 <br>
