@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-🔭 I’m currently working on **creative mini projects**
+🔭 I’m currently working on **innovative full stack projects**
 
-🌱 I’m currently learning **machine learning**
+🌱 I’m currently learning **back end technologies**
 
 ⚡ Fun fact **I can speak 6 languages (other than the ones I code in :)**
 
