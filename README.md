@@ -1,5 +1,5 @@
 <h1 align="center">Heya 👋, I'm Preethika</h1>
-<h3 align="center">I like building things :)</h3>
+<h3 align="center">Full Stack Web Dev who likes building things :)</h3>
 <br>
 
 <p align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=preethikasiva&theme=radical&hide_border=true&border_radius=12&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=491" alt="GitHub Streak" /></a>
